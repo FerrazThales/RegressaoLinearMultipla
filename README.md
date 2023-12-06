@@ -1,4 +1,4 @@
-# Regressao Linear Múltipla
+# Regressao Linear Múltipla utilizando o Excel
 
 <p align="center"><img src="https://github.com/FerrazThales/RegressaoLinearMultipla/blob/main/imagens/Regress%C3%A3o%20Linear%20M%C3%BAltipla.jpg"></p>
 
