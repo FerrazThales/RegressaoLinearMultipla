@@ -6,4 +6,4 @@ A análise de regressão múltipla é uma técnica estatística que pode ser usa
 
 Para obter o melhor modelo explicativo existem alguns métodos e premissas a serem consideradas. O artigo trata do processo completo da Análise de Regressão Linear Múltipla, desde os seus conceitos teóricos até a aplicação prática utilizando o Excel.
 
-Você pode dar uma olhada no passo a passo detalhado desta resolução através do meu [artigo no Linkedin]().
+Você pode dar uma olhada no passo a passo detalhado desta resolução através do meu [artigo no Linkedin](https://www.linkedin.com/posts/thalesdefreitasferraz_excel-analisededados-regressaeto-activity-7139939379178901504-cESi?utm_source=share&utm_medium=member_desktop).
